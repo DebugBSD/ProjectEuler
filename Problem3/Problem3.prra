@@ -1,0 +1,6 @@
+[Version]
+Version=3000
+[Project]
+Assembler=masm
+Source=main.asm
+Include=main.inc

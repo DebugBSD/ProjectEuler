@@ -1,0 +1,10 @@
+[Version]
+Version=3000
+[Project]
+Assembler=masm
+Source=Problem1.asm
+Include=Problem1.inc
+[Make]
+Make=3
+Delete=1
+IncBuild=0
